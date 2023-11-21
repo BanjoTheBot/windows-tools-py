@@ -1,7 +1,6 @@
 """
     Prevents the system going into sleep mode, regardless of power settings
 """
-
 from wakepy import keep
 
 
